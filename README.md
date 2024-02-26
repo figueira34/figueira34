@@ -4,6 +4,8 @@ I'm Henrique Figueira and I'm a Dynamic BI professional adept at delivering impa
 
 #### Badges
 <img width="100" alt="sql_associate_badge" src="https://github.com/figueira34/figueira34/assets/104475749/d54467dc-6908-4949-8423-1ca8f6679f6a">
+<img width="100" alt="sql_associate_badge" src="https://github.com/figueira34/figueira34/assets/104475749/5674826c-d056-44cd-9d6b-bac3fd1844a4">
+
 
 <!--
 **figueira34/figueira34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
