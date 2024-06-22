@@ -10,7 +10,7 @@ I'm Henrique Figueira and I'm a Dynamic BI professional adept at delivering impa
 
 ### Connect with me
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:heenrique.fiigueira@gmail.com)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=E94D5F)](mailto:heenrique.fiigueira@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/henriquefigueira/)
 [![Datacamp](https://img.shields.io/badge/datacamp-000?style=for-the-badge&logo=datacamp&logoColor=03EF62)](https://www.datacamp.com/portfolio/henriquefigueira)
 
