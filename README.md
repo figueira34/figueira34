@@ -1,6 +1,6 @@
 ### Hello there 
 
-I'm Henrique Figueira and I'm a Dynamic BI professional adept at delivering impactful data visualization solutions. With a rich background in leveraging Power BI, Qlik, and advanced spreadsheet techniques, I excel in extracting actionable insights from complex data sets across MySQL, Oracle, and PostgreSQL databases. Well-versed in agile methodologies and skilled in successful project management, I consistently drive results through innovative problem-solving. Committed to continual self-improvement and achieving excellence, I thrive in dynamic, knowledge-driven environments.
+I'm Henrique Figueira, a Dynamic BI professional adept at delivering impactful data visualization solutions. With a rich background in leveraging Power BI, Qlik, and advanced spreadsheet techniques, I excel in extracting actionable insights from complex data sets across MySQL, Oracle, and PostgreSQL databases. I consistently drive results through innovative problem-solving am well-versed in agile methodologies and skilled in successful project management. Committed to continual self-improvement and achieving excellence, I thrive in dynamic, knowledge-driven environments.
 
 #### Badges
 
@@ -19,5 +19,6 @@ I'm Henrique Figueira and I'm a Dynamic BI professional adept at delivering impa
 
 ![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=sql)
 ![Power BI](https://img.shields.io/badge/power%20bi-000?style=for-the-badge&logo=power%20bi)
+![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
