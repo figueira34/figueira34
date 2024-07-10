@@ -27,3 +27,8 @@ I'm Henrique Figueira, a Dynamic BI professional adept at delivering impactful d
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+
+
+## My Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=figueira34&hide_progress=true&theme=dark)
