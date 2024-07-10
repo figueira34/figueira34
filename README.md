@@ -2,7 +2,7 @@
 
 I'm Henrique Figueira, a Dynamic BI professional adept at delivering impactful data visualization solutions. With a rich background in leveraging Power BI, Qlik, and advanced spreadsheet techniques, I excel in extracting actionable insights from complex data sets across MySQL, Oracle, and PostgreSQL databases. I consistently drive results through innovative problem-solving am well-versed in agile methodologies and skilled in successful project management. Committed to continual self-improvement and achieving excellence, I thrive in dynamic, knowledge-driven environments.
 
-#### Badges
+### Badges
 
 <img width="100" alt="data_analyst_badge" src="https://github.com/figueira34/figueira34/assets/104475749/4ae3511a-768c-4d0b-aa03-5148f729d8b7">
 <img width="100" alt="sql_associate_badge" src="https://github.com/figueira34/figueira34/assets/104475749/d54467dc-6908-4949-8423-1ca8f6679f6a">
@@ -29,6 +29,6 @@ I'm Henrique Figueira, a Dynamic BI professional adept at delivering impactful d
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
 
-## My Languages
+### My Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=figueira34&hide_progress=true&theme=dark)
